@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Anas0104
+- 👀 I’m interested in malwares, virus and softwares
+- 🌱 I’m currently learning the Batch files Malwares and HTML code
+- ⚡ Created Projects: CR@CKER B0Y 1.0.EXE, a malware in batch resources
